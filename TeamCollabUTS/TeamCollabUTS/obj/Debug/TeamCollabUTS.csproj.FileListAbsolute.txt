@@ -1,0 +1,14 @@
+C:\Users\Griselda Guinarto\AppData\Local\Temporary Projects\TeamCollabUTS\bin\Debug\TeamCollabUTS.exe.config
+C:\Users\Griselda Guinarto\AppData\Local\Temporary Projects\TeamCollabUTS\bin\Debug\TeamCollabUTS.exe
+C:\Users\Griselda Guinarto\AppData\Local\Temporary Projects\TeamCollabUTS\bin\Debug\TeamCollabUTS.pdb
+C:\Users\Griselda Guinarto\AppData\Local\Temporary Projects\TeamCollabUTS\obj\Debug\TeamCollabUTS.csprojAssemblyReference.cache
+C:\Users\Griselda Guinarto\AppData\Local\Temporary Projects\TeamCollabUTS\obj\Debug\TeamCollabUTS.csproj.CoreCompileInputs.cache
+C:\Users\Griselda Guinarto\AppData\Local\Temporary Projects\TeamCollabUTS\obj\Debug\TeamCollabUTS.exe
+C:\Users\Griselda Guinarto\AppData\Local\Temporary Projects\TeamCollabUTS\obj\Debug\TeamCollabUTS.pdb
+C:\Users\Griselda Guinarto\Desktop\TeamCollabUTS\TeamCollabUTS\bin\Debug\TeamCollabUTS.exe.config
+C:\Users\Griselda Guinarto\Desktop\TeamCollabUTS\TeamCollabUTS\bin\Debug\TeamCollabUTS.exe
+C:\Users\Griselda Guinarto\Desktop\TeamCollabUTS\TeamCollabUTS\bin\Debug\TeamCollabUTS.pdb
+C:\Users\Griselda Guinarto\Desktop\TeamCollabUTS\TeamCollabUTS\obj\Debug\TeamCollabUTS.csprojAssemblyReference.cache
+C:\Users\Griselda Guinarto\Desktop\TeamCollabUTS\TeamCollabUTS\obj\Debug\TeamCollabUTS.csproj.CoreCompileInputs.cache
+C:\Users\Griselda Guinarto\Desktop\TeamCollabUTS\TeamCollabUTS\obj\Debug\TeamCollabUTS.exe
+C:\Users\Griselda Guinarto\Desktop\TeamCollabUTS\TeamCollabUTS\obj\Debug\TeamCollabUTS.pdb
